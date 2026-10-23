@@ -94,3 +94,4 @@ The browser compatibility rule defaults to Electron 43 (Obsidian 1.13.4). If you
 ## License
 
 [MIT](LICENSE.md) &copy; [Dynalist Inc.](https://obsidian.md)
+
